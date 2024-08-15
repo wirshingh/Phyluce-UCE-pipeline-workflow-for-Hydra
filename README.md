@@ -1,7 +1,7 @@
 # Phyluce UCE Pipeline Workflow
 ### Initial draft 4-12-2024
  
-This workflow is modified from the LAB Phyluce Tuorial found on GitHub.
+This workflow is modified from the LAB Phyluce Tuorial found on GitHub (https://github.com/SmithsonianWorkshops/Targeted_Enrichment/blob/master/phyluce.md).
  
 The primary difference is that this workflow begins with genome contigs previously assembled using Spades (or other programs) that have generated “.fasta” files of assembled contigs. A .fasta file with the desired UCE probe-set is also required.
  
