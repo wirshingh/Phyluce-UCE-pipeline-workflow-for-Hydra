@@ -1,5 +1,4 @@
 # Phyluce UCE Pipeline Workflow
-## Prepared by H. Wirshing
 ### Initial draft 4-12-2024
  
 This workflow is modified from the LAB Phyluce Tuorial found on GitHub.
