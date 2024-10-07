@@ -14,11 +14,11 @@ All required job files (and related sub-directories) for this workflow can be do
 2. 	Assembled contigs for each sample in fasta format
 3. 	Job files and directory templates (link to download above)
  
-Copy the directory (and its subdirectories) <project> to your working Hydra directory of choice.
+Copy the directory (and its subdirectories) <project> to your working Hydra directory of choice. Files in the directory ending with "RAW" can de ignored.
  
 Rename the directories <project> and <Assembled_Contigs> with names appropriate for your project. Copy your assembled contigs into the newly named <Assembled_Contigs> directory.
  
-Job files are numbered, and begin with number 5 and proceed through 17, which correspond to the numbered job files of the original LAB GitHub workflow.
+The Job files required for this pipeline are numbered, and begin with number 5 and proceed through 17. 
  
  
 ## Begin Workflow
